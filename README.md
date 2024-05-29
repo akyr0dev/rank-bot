@@ -1,5 +1,6 @@
 <h1 align="center">
  📝 〢 Rank Bot
+ 💓 〢 Thanks to Nekros for this nice readme :3
 </h1>
 
 ---
