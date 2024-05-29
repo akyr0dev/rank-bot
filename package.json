@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "discord.js": "^14.15.2"
+  },
+  "name": "rank-bot",
+  "version": "1.0.0",
+  "description": "Bot pour vos teams discord qui sert a rank quelqun automatiquement.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm i && node ."
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "team"
+  ],
+  "author": "Akyr0",
+  "license": "ISC"
+}
