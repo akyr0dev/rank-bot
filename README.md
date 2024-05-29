@@ -14,7 +14,7 @@
 
 1. Install [NodeJS](https://nodejs.org/)
 2. Install [Files](https://github.com/akry0dev/rank-bot)
-3. Complete the [Configuration](https://github.com/akyr0dev/config.json)
+3. Complete the [Configuration](https://github.com/akyr0dev/rank-bot/config.json)
 5. Enjoy the bot !
 
 ### <a id="terms"></a>💼 〢 Terms Of Usage
