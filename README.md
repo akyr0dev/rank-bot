@@ -24,6 +24,6 @@
 - [x] We are NOT responsible of anything you do with our software (if its illegal).
 
 ### <a id="authors"></a>🕵️‍♂️ 〢 Authors
-- [Nekros](https://github.com/akyr0dev)
+- [Akyr0](https://github.com/akyr0dev)
 
 ---
